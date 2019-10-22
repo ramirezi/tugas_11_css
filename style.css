@@ -1,0 +1,40 @@
+header{
+  background-color: #2f3030;
+  height: 50px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 15px;
+  color: white;
+  text-decoration: none;
+}
+.footer{
+  height: 50px;
+  background-color: black;
+  color: white;
+}
+h2{
+  text-align: center;
+}
+p{
+  column-rule: 2px solid black;
+  text-align: justify;
+  column-count: 4;
+}
+.row{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
